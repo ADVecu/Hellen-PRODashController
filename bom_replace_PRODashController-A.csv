@@ -58,7 +58,7 @@ R118,
 R119,
 
 #Accelerometer
-u107,
+U107,
 
 #CRANK BUTTON1: UP 680k 1n
 R222,"680k","R0402","C163456"
